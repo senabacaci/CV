@@ -1,0 +1,82 @@
+<html>
+    <head>
+	<title>ÖZGEÇMİŞ</title>
+	 </head>
+	 
+        <body>
+		
+		<ul type="none">
+		 <li>KİŞİSEL BİLGİLER</li>
+		</ul>
+		
+	    <ul type="square">
+		 <li>Ad Soyad</li>
+	    </ul>
+		
+		<ul type="none">
+		 <li>Sena BACACI</li>
+		</ul>
+		
+		<ul type="square">
+	     <li>Telefon Numarası</li>
+		</ul>
+		
+		<ul type="none">
+		 <li>05079692522</li>
+		</ul>
+		
+		<ul type="square">
+		 <li>E-posta</li>
+		</ul>
+        
+		<ul type="none">
+		 <li>bacacisena@gmail.com</li>
+		</ul>
+		
+		<ul type="square">
+		 <li>Doğum Tarihi</li>
+		</ul>
+        
+		<ul type="none">
+		 <li>03.04.2003</li>
+		</ul>
+		
+	    <ul type="square">
+		 <li>Doğum Yeri</li>
+		</ul>
+        
+		<ul type="none">
+		 <li>Kütahya/Merkez</li>
+		</ul>
+		
+		<ul type="square">
+		 <li>Adres</li>
+	    </ul>
+		
+		<ul type="none">
+		 <li>Adnan Menderes cad.Balıklı mah.Şükran apt.no/23 daire 4</li>
+	    </ul>
+			
+		<ul type="square">
+		 <li>İlgi Alanları</li>
+		</ul>
+		
+		<ul type="none">
+		 <li>Müzik dinlemek<li/>
+		 <li>Seyahat etmek</li>
+		</ul>
+    
+	    <ul type="square">
+		 <li>Eğitim Durumu:</li>
+		</ul>
+        
+		<ul type="none">
+		 <li>Linyit İlkokulu</li>
+		 <li>Atatürk Ortaokulu</li>
+		 <li>Fatih Anadolu Lisesi(2017-2019)</li>
+		 <li>Boğaziçi Anadolu Lisesi(2019-2021)</li>
+		 <li>Kütahya Dumlupınar Üniversitesi</li>
+		</ul>
+		
+    </body>
+</html>
